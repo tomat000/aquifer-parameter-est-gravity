@@ -1,4 +1,7 @@
 Station ID,Observer ID,Serial Number,Date,Time,ObsG,Dial,Feedback Correction,Earthtide Correction,Level Correction,Temperature Correction,Beam Error,Height,Elevation,Latitude,Longitude,Elapsed Time,Standard Deviation,Temperature Frequency,Note
+Default,Default,B-107,2024/11/21,21:56:57,5.1931,2656,5.1931,0,0,0,-0.0079,0,0,0,0,119,0.0033,91,No notes.
+Default,Default,B-107,2024/11/21,22:02:07,5.2188,2656,5.2188,0,0,0,0.0017,0,0,0,0,123,0.0022,91,No notes.
+Default,Default,B-107,2024/11/21,23:56:06,5.1641,2656,5.1641,0,0,0,0.0037,0,0,0,0,78,0.0021,92,No notes.
 AP001,morrison,B-107,2024/11/22,14:42:51,-2.1778,2656,-2.2242,0.0464,0,0,-0.0097,0,1453,34.078947,-106.92083,58,0.0079,90,No notes.
 AP001,morrison,B-107,2024/11/22,14:42:58,-2.1504,2656,-2.1968,0.0464,0,0,0.0078,0,1453,34.078947,-106.92083,65,0.0041,90,No notes.
 AP001,morrison,B-107,2024/11/22,14:43:04,-2.1442,2656,-2.1906,0.0463,0,0,0.0048,0,1453,34.078947,-106.92083,71,0.0027,90,No notes.
